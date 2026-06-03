@@ -2,7 +2,7 @@
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 student-marks-prediction/
@@ -14,7 +14,7 @@ student-marks-prediction/
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 A regression-based machine learning project to predict student academic performance using assignment, quiz, and midterm scores.
 
@@ -36,7 +36,7 @@ A regression-based machine learning project to predict student academic performa
 
 ---
 
-## 🔧 Libraries Used
+## Libraries Used
 
 - `pandas` / `numpy` – Data manipulation
 - `matplotlib` / `seaborn` – Visualization
@@ -45,7 +45,7 @@ A regression-based machine learning project to predict student academic performa
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 ```bash
